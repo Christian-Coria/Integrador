@@ -1,4 +1,4 @@
-# ispc_BlogEstudiantil
+# Proyecto Integrador ISPC
 ## INTEGRANTES del Proyecto: 
 - Sotelo Joaquín
 - Mateo Coria
