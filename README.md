@@ -7,7 +7,7 @@
 
                                                  Proyecto Integrador ISPC
 
-###TRABAJO INTEGRADOR – Programación Inicial y Bases de Datos
+### TRABAJO INTEGRADOR – Programación Inicial y Bases de Datos
 
 Una conocida casa de música de la ciudad de Formosa capital solicitó a nuestra empresa de
 software que le confeccionemos un nuevo sistema que gestione sus Discos, Cassettes y
