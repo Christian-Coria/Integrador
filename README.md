@@ -21,3 +21,5 @@ El sistema debe proveer los siguientes requerimientos por parte del cliente:
 
 ![](./esquema-BD.png)
 
+
+
